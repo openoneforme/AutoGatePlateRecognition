@@ -15,4 +15,10 @@ A. Project Definition
 
 B. Project Planning
 
-C.
+C. Project Implementation
+
+D. Project Execution
+
+E. Project Closure
+
+F. Project Presentation
