@@ -10,3 +10,9 @@
 | Farabi Tasnim Ahmed                      | Senior Project Director |
 
 <br>
+
+A. Project Definition
+
+B. Project Planning
+
+C.
