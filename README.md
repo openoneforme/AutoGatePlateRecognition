@@ -75,7 +75,7 @@ First we need to do some pre-processing on the image of the car, so the number p
 Then we need to crop the number plate part of the image, and then using easOCR we read the part of the image that we have cut, 
 and converted it into text and store it into an array.
 
-![Screenshot (340)](https://user-images.githubusercontent.com/55405230/150630456-36c7becb-31d0-4cea-a060-1db8ab157ae5.png)
+![Screenshot (340)](https://github.com/openoneforme/AutoGatePlateRecognition/blob/main/image/code.png)
 
 Then we display the number plate that we have read, and run a simulation whehter our gate opens or remains closed.
 ![Screenshot (342)](https://github.com/openoneforme/AutoGatePlateRecognition/blob/main/image/code%20(2).png)
