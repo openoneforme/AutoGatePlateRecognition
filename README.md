@@ -16,6 +16,7 @@ Farabi Tasnim Ahmed  Quality Manager
 Project Title: Auto Gate Plate Recognition
 
 Objectives: 
+
 1.  
 2.  
 3.  
@@ -82,6 +83,7 @@ Then we display the number plate that we have read, and run a simulation whehter
 ## Project Closure
 
 Closing Checklist
+
 :white_check_mark: [Sign Off](https://github.com/openoneforme/AutoGatePlateRecognition/blob/main/documentation/Sign%20Off.pdf)
 
 :white_check_mark: [Lesson Learned](https://github.com/openoneforme/AutoGatePlateRecognition/blob/main/README.md)
