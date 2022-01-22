@@ -23,9 +23,12 @@ Objectives:
 
 ## Project Planning
 <h2>Gantt Chart</h2>
-![GanttChart](https://github.com/openoneforme/AutoGatePlateRecognition/tree/main/image/GanttChart.JPG)
+
+![GanttChart](https://user-images.githubusercontent.com/55337524/150630663-899a4694-ae4d-4b9d-853b-c3fb9c3f458c.JPG)
+
 
 <h2>Responsibility Assignment Matrices (RAM)</h2>
+
 ![RAM](https://user-images.githubusercontent.com/55337524/150621570-7e63b9a5-af6b-466b-909b-2e26cf79e779.JPG)
 
 <h2>Roles & Resposibility</h2>
@@ -62,7 +65,6 @@ First we need to do some pre-processing on the image of the car, so the number p
 
 Then we need to crop the number plate part of the image, and then using easOCR we read the part of the image that we have cut, 
 and converted it into text and store it into an array.
-
 ![Screenshot (340)](https://user-images.githubusercontent.com/55405230/150630456-36c7becb-31d0-4cea-a060-1db8ab157ae5.png)
 
 
