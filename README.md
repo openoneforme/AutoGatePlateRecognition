@@ -8,9 +8,9 @@ Team Members:
 Name                                | Matrics Number          | Role                    |             
 ----------------------------------  | ----------------------- | ----------------------- |
 Jasni Jazali Bin Mohd Zamri         | B031910077              | Project Manager         |
-Mukheish Rao A/L M.Apparao          | B031910128              | Project Scheduler       |
-Wan Ali Bin Mohamad Pauzi           | B031910052              | Financial Analyst       |
-Farabi Tasnim Ahmed                 | B031910159              | Quality Manager         |  
+Mukheish Rao A/L M.Apparao          | B031910099              | Project Scheduler       |
+Wan Ali Bin Mohamad Pauzi           | B031910397              | Financial Analyst       |
+Farabi Tasnim Ahmed                 | B031910456              | Quality Manager         |  
 
 ## Project Definition
 
