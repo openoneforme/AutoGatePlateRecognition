@@ -70,7 +70,7 @@ Flowchart:
 Below are some of the code snipets attached:
 
 First we need to do some pre-processing on the image of the car, so the number plate is more readable.
-![Screenshot (339)](https://user-images.githubusercontent.com/55405230/150630348-46318318-7ee6-40ac-9a45-0010da185982.png)
+![Screenshot (339)](https://github.com/openoneforme/AutoGatePlateRecognition/blob/main/image/code%20(3).png)
 
 Then we need to crop the number plate part of the image, and then using easOCR we read the part of the image that we have cut, 
 and converted it into text and store it into an array.
