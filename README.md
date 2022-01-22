@@ -98,7 +98,7 @@ Closing Checklist
 
 :white_check_mark: [Final Project Report](https://github.com/openoneforme/AutoGatePlateRecognition/blob/main/README.md)
 
-:white_check_mark: [Closing Contract](https://github.com/openoneforme/AutoGatePlateRecognition/blob/main/README.md)
+:white_check_mark: [Closing Contract](https://github.com/openoneforme/AutoGatePlateRecognition/blob/main/documentation/Close%20Contract.pdf)
 
 ## Project Presentation
 
