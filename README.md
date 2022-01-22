@@ -94,7 +94,7 @@ Closing Checklist
 
 :white_check_mark: [Sign Off](https://github.com/openoneforme/AutoGatePlateRecognition/blob/main/documentation/Sign%20Off.pdf)
 
-:white_check_mark: [Lesson Learned](https://github.com/openoneforme/AutoGatePlateRecognition/blob/main/README.md)
+:white_check_mark: [Lesson Learned](https://github.com/openoneforme/AutoGatePlateRecognition/blob/main/documentation/Lesson%20Learned.pdf)
 
 :white_check_mark: [Final Project Report](https://github.com/openoneforme/AutoGatePlateRecognition/blob/main/README.md)
 
