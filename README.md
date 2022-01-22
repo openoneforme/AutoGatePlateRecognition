@@ -4,12 +4,13 @@ Powered by casaIoT Sdn. Bhd.
 
 ![cover](https://github.com/openoneforme/AutoGatePlateRecognition/blob/main/image/cover.png)
 
-
-Jasni Jazali Bin Mohd Zamri Project Manager
-Mukheish Rao A/L M.Apparao Project Scheduler
-Wan Ali Bin Mohamad Pauzi Financial Analyst
-Farabi Tasnim Ahmed  Quality Manager
-
+Team Members:
+Name                                | Matrics Number          | Role                    |             
+----------------------------------  | ----------------------- | ----------------------- |
+Jasni Jazali Bin Mohd Zamri         | B031910077              | Project Manager         |
+Mukheish Rao A/L M.Apparao          | B031910128              | Project Scheduler       |
+Wan Ali Bin Mohamad Pauzi           | B031910052              | Financial Analyst       |
+Farabi Tasnim Ahmed                 | B031910159              | Quality Manager         |  
 
 ## Project Definition
 
