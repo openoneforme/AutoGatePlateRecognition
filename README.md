@@ -44,15 +44,18 @@ Objectives:
 
 <br>
 <h2>NPV</h2>
+
 ![NPV](https://user-images.githubusercontent.com/55337524/150622746-bf822c79-4084-4f94-9842-1a5bfc4378ac.JPG)
 
 
 ## Project Implementation
 
 <h2>Cost Estimation</h2>
+
 ![Cost Estimation](https://user-images.githubusercontent.com/55337524/150622779-329a9163-5549-450f-9e0a-a69640dfdd89.JPG)
 
 <h2>Time Management Gantt Chart</h2>
+
 ![Time Management](https://user-images.githubusercontent.com/55337524/150622856-593c0875-b605-4227-89b1-94f58f4903c8.JPG)
 
 
