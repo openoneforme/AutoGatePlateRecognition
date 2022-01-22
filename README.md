@@ -23,9 +23,11 @@ Objectives:
 
 ## Project Planning
 <h2>Gantt Chart</h2>
+
 ![GanttChart](https://github.com/openoneforme/AutoGatePlateRecognition/tree/main/image/GanttChart.JPG)
 
 <h2>Responsibility Assignment Matrices (RAM)</h2>
+
 ![RAM](https://user-images.githubusercontent.com/55337524/150621570-7e63b9a5-af6b-466b-909b-2e26cf79e779.JPG)
 
 <h2>Roles & Resposibility</h2>
