@@ -61,7 +61,7 @@ Objectives:
 
 ## Project Execution
 
-Flow Chart
+Flow Chart:
 
 ![FLowchatAIPM drawio](https://user-images.githubusercontent.com/55405230/150631922-8f102596-20ee-488d-9bc0-c06d2f95a2cf.png)
 
