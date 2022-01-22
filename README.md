@@ -82,9 +82,9 @@ Then we display the number plate that we have read, and run a simulation whehter
 
 Project Result:
 
-![Screenshot (347)](https://user-images.githubusercontent.com/55405230/150632899-649f851b-1395-4002-b761-b541080b5d42.png)
+![Screenshot (347)](https://github.com/openoneforme/AutoGatePlateRecognition/blob/main/image/result%20(2).png)
 
-![Screenshot (344)](https://user-images.githubusercontent.com/55405230/150632851-20277dac-7890-41e8-9394-8ed97d2ddb15.png)
+![Screenshot (344)](https://github.com/openoneforme/AutoGatePlateRecognition/blob/main/image/result.png)
 
 
 
