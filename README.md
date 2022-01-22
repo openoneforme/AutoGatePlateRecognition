@@ -18,9 +18,9 @@ Project Title: Auto Gate Plate Recognition
 
 Objectives: 
 
-1.  
-2.  
-3.  
+1.  To helps owner open their house gate without going out from car
+2.  To improve house security
+3.  To record all the vehicle that are at in front of the gate
 
 
 ## Project Planning
