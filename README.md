@@ -105,5 +105,7 @@ Closing Checklist
 Presentation Video
 * Click the video below to watch our live recorded presentation
 
+[![Presentation](https://github.com/openoneforme/AutoGatePlateRecognition/blob/main/image/Thumbnail.JPG)](https://www.youtube.com/watch?v=ZpWf4k8uwMQ "AutoGatePlateRecognition Project Presentation")
+
 Demonstration Video
 * Click the video below to watch our demonstration video
