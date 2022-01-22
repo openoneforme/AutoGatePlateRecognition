@@ -109,3 +109,5 @@ Presentation Video
 
 Demonstration Video
 * Click the video below to watch our demonstration video
+
+[![Demo](https://github.com/openoneforme/AutoGatePlateRecognition/blob/main/image/Thumbnail2.JPG)](https://www.youtube.com/watch?v=iZLoIcoBv9A "AutoGatePlateRecognition Project Demonstration")
