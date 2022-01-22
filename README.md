@@ -24,7 +24,7 @@ Objectives:
 ## Project Planning
 <h2>Gantt Chart</h2>
 
-![GanttChart](https://user-images.githubusercontent.com/55337524/150630663-899a4694-ae4d-4b9d-853b-c3fb9c3f458c.JPG)
+![GanttChart](https://github.com/openoneforme/AutoGatePlateRecognition/blob/main/image/GanttChart.JPG)
 
 
 <h2>Responsibility Assignment Matrices (RAM)</h2>
