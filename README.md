@@ -61,9 +61,9 @@ Objectives:
 
 ## Project Execution
 
-Flow Chart
+Flowchart:
 
-![FLowchatAIPM drawio](https://user-images.githubusercontent.com/55405230/150631922-8f102596-20ee-488d-9bc0-c06d2f95a2cf.png)
+![FLowchatAIPM drawio](https://user-images.githubusercontent.com/55405230/150631922-8f102596-20ee-488d-9bc0-c06d2f95a2cf.png) Figure 1:Flowchart
 
 Below are some of the code snipets attached:
 
@@ -80,15 +80,5 @@ Then we display the number plate that we have read, and run a simulation whehter
 
 
 ## Project Closure
-
-Closing Checklist
-
-:white_check_mark: [Sign Off](https://github.com/openoneforme/AutoGatePlateRecognition/blob/main/documentation/Sign%20Off.pdf)
-
-:white_check_mark: [Lesson Learned](https://github.com/openoneforme/AutoGatePlateRecognition/blob/main/README.md)
-
-:white_check_mark: [Final Project Report](https://github.com/openoneforme/AutoGatePlateRecognition/blob/main/README.md)
-
-:white_check_mark: [Closing Contract](https://github.com/openoneforme/AutoGatePlateRecognition/blob/main/README.md)
 
 ## Project Presentation
