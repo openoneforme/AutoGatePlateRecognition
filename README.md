@@ -2,7 +2,7 @@
 
 Powered by casaIoT Sdn. Bhd.
 
-![cover](https://user-images.githubusercontent.com/55337524/150620599-1a7966f9-ff8b-47d2-b513-0699899df6be.png)
+![cover](https://github.com/openoneforme/AutoGatePlateRecognition/blob/main/image/cover.png)
 
 
 Jasni Jazali Bin Mohd Zamri Project Manager
