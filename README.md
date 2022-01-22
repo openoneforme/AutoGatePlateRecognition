@@ -71,6 +71,9 @@ and converted it into text and store it into an array.
 
 ![Screenshot (340)](https://user-images.githubusercontent.com/55405230/150630456-36c7becb-31d0-4cea-a060-1db8ab157ae5.png)
 
+Then we display the number plate that we have read, and run a simulation whehter our gate opens or remains closed.
+![Screenshot (342)](https://user-images.githubusercontent.com/55405230/150631049-fec8d5d4-98c9-46e9-aaa4-a6d9e5f279db.png)
+
 
 ## Project Closure
 
