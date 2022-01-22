@@ -81,4 +81,19 @@ Then we display the number plate that we have read, and run a simulation whehter
 
 ## Project Closure
 
+Closing Checklist
+:white_check_mark: [Sign Off](https://github.com/openoneforme/AutoGatePlateRecognition/blob/main/documentation/Sign%20Off.pdf)
+
+:white_check_mark: [Lesson Learned](https://github.com/openoneforme/AutoGatePlateRecognition/blob/main/README.md)
+
+:white_check_mark: [Final Project Report](https://github.com/openoneforme/AutoGatePlateRecognition/blob/main/README.md)
+
+:white_check_mark: [Closing Contract](https://github.com/openoneforme/AutoGatePlateRecognition/blob/main/README.md)
+
 ## Project Presentation
+
+Presentation Video
+* Click the video below to watch our live recorded presentation
+
+Demonstration Video
+* Click the video below to watch our demonstration video
