@@ -54,6 +54,7 @@ Objectives:
 
 
 ## Project Execution
+![Screenshot (339)](https://user-images.githubusercontent.com/55405230/150630348-46318318-7ee6-40ac-9a45-0010da185982.png)
 
 ## Project Closure
 
